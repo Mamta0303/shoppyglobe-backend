@@ -26,10 +26,6 @@ shoppyglobe-backend/
 ├── .env # Environment variables
 └── server.js # Entry point
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 🔐 Authentication
@@ -58,8 +54,6 @@ Check /screenshots folder for results.
 
 ✅ How to Run
 bash
-Copy
-Edit
 npm install
 npm run dev
 Ensure MongoDB is running locally or use MongoDB Atlas and update .env.
@@ -67,15 +61,6 @@ Ensure MongoDB is running locally or use MongoDB Atlas and update .env.
 👩🏻‍💻 Developed by
 Mamta Prajapati – Full Stack Developer (Internshala Project)
 
-csharp
-Copy
-Edit
 
-💾 Save this as `README.md` in your root folder, then:
 
-```bash
-git add README.md
-git commit -m "Add project README"
-git push
-
-## Github Repository : 
+🔗 **GitHub Repository Link**: [https://github.com/Mamta0303/shoppyglobe-backend](https://github.com/Mamta0303/shoppyglobe-backend)
